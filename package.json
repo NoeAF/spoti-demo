@@ -1,0 +1,13 @@
+  
+{
+  "name": "/",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node runtime-es2015.c5fa8325f89fc516600b.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
